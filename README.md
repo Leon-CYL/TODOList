@@ -4,10 +4,17 @@
 
 ## Set up and Installation
 
-> `git clone <URL>`
+```bash
+git clone <URL>
+```
 
-> `pip install -r requirements.txt`
+``` bash
+pip install -r requirements.txt
+```
 
 
 ## Run the app
-> `python main.py`
+
+```bash
+python main.py
+```
